@@ -71,4 +71,4 @@ alongside HR.
 ➢ BSc. Economics, University of Uyo, Akwa Ibom State, 2021, Second Class Honours (Lower Division)
 
 ## Certifications
-![Devskiller](
+![Devskiller](DevskillerBadge.png)
